@@ -1,0 +1,71 @@
+{
+    "Task 1": {
+        "Train Loss (Last Epoch)": 0.0115,
+        "Test Loss (Last Epoch)": 0.0115,
+        "Train Loss (Minimum)": 0.0115,
+        "Test Loss (Minimum)": 0.0115
+    },
+    "Task 2": {
+        "Train Loss (Last Epoch)": 0.0013,
+        "Test Loss (Last Epoch)": 0.0011,
+        "Train Loss (Minimum)": 0.0013,
+        "Test Loss (Minimum)": 0.0011
+    },
+    "Task 3": {
+        "Train Loss (Last Epoch)": 0.2552,
+        "Test Loss (Last Epoch)": 0.2547,
+        "Train Loss (Minimum)": 0.2552,
+        "Test Loss (Minimum)": 0.2547
+    },
+    "Task 4": {
+        "Train Loss (Last Epoch)": 0.2563,
+        "Test Loss (Last Epoch)": 0.2516,
+        "Train Loss (Minimum)": 0.2563,
+        "Test Loss (Minimum)": 0.2516
+    },
+    "Task 5": {
+        "Train Loss (Last Epoch)": 0.4004,
+        "Test Loss (Last Epoch)": 0.8043,
+        "Train Accuracy (Last Epoch)": 0.8442,
+        "Test Accuracy (Last Epoch)": 0.7383,
+        "Train Loss (Minimum)": 0.4004,
+        "Test Loss (Minimum)": 0.6515,
+        "Train Accuracy (Maximum)": 0.8826,
+        "Test Accuracy (Maximum)": 0.7790,
+
+        "Test Loss (LAERecon Dataset)": 3.3212,
+        "Test Accuracy (LAERecon Dataset)": 25.53,
+        "Test Precision (LAERecon Dataset)": 0.5123,
+        "Test Recall (LAERecon Dataset)": 0.2553,
+        "Test F1 Score (LAERecon Dataset)": 0.1807,
+
+        "Test Loss (CAERecon Dataset)": 0.8174,
+        "Test Accuracy (CAERecon Dataset)": 72.40,
+        "Test Precision (CAERecon Dataset)": 0.7444,
+        "Test Recall (CAERecon Dataset)": 0.7240,
+        "Test F1 Score (CAERecon Dataset)": 0.7238
+    },
+
+    "Task 6": {
+        "Train Loss (Last Epoch)": 0.0113,
+        "Test Loss (Last Epoch)": 0.0331,
+        "Train Accuracy (Last Epoch)": 0.9983,
+        "Test Accuracy (Last Epoch)": 0.9886,
+        "Train Loss (Minimum)": 0.0113,
+        "Test Loss (Minimum)": 0.0331,
+        "Train Accuracy (Maximum)": 0.9983,
+        "Test Accuracy (Maximum)": 0.9902,
+
+        "Test Loss (LAEDenoise Dataset)": 0.1715,
+        "Test Accuracy (LAEDenoise Dataset)": 94.70,
+        "Test Precision (LAEDenoise Dataset)": 0.9482,
+        "Test Recall (LAEDenoise Dataset)": 0.9470,
+        "Test F1 Score (LAEDenoise Dataset)": 0.9472,
+
+        "Test Loss (CAEDenoise Dataset)": 0.2251,
+        "Test Accuracy (CAEDenoise Dataset)": 93.12,
+        "Test Precision (CAEDenoise Dataset)": 0.9325,
+        "Test Recall (CAEDenoise Dataset)": 0.9312,
+        "Test F1 Score (CAEDenoise Dataset)": 0.9309
+    }
+}
